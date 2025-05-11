@@ -1,0 +1,15 @@
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.exe
+*.obj
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.pyc
+__pycache__/
+Debug/
+Release/
