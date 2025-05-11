@@ -71,11 +71,24 @@ int main() {
 
 ## How to run it
 
-```bash
-visual studio
-```
-
+ >Windows only right now
+>
+ >Open in Visual Studio (2022 or newer)
+>
 > You’ll need an API key for Together.ai or whatever model provider you plug in.
+
+---
+
+##  Screenshots
+
+ 
+> ![image](https://github.com/user-attachments/assets/40ae5e5e-3c45-4c61-b40f-abd739590880)
+>
+> ![image](https://github.com/user-attachments/assets/b57c29ae-6da7-48d8-8eb1-ce47bd485944)
+>
+> ![image](https://github.com/user-attachments/assets/d066b58d-0e77-4302-8e22-54c9e3d1881c)
+
+
 
 ---
 
@@ -89,4 +102,4 @@ AGPL-3.0. You can use this, learn from it, even build on it — just keep it ope
 
 > ai was used to write the readme and some parts of the code.
 >
-> ai is a great tool, but it doesn't replace hard work.
+> it is a great tool, but it doesn't replace hard work.
